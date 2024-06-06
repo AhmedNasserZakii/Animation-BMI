@@ -39,10 +39,10 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/AhmedNasserZakii/Animation-BMI.git
-2. **Navigate to the project directory:
+2. **Navigate to the project directory:**
    ```bash
     cd Animation-BMI
-3. **Install dependencies:
+3. **Install dependencies:**
     ```bash
     flutter pub get
 
@@ -50,10 +50,10 @@ To get started with this project, follow these steps:
 ## Usage
 
 
-1. ** Run the application:
+1. ** Run the application:**
    ```bash
    flutter run
-2. **Calculate BMI:
+2. **Calculate BMI:**
    - Enter your weight and height.
    - Tap the "Calculate" button to see your BMI with animations.
 
@@ -83,11 +83,11 @@ lib/
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-1. **Fork the Project
-2. **Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. **Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. **Push to the Branch (git push origin feature/AmazingFeature)
-5. **Open a Pull Request
+1. **Fork the Project**
+2. **Create your Feature Branch (git checkout -b feature/AmazingFeature)**
+3. **Commit your Changes (git commit -m 'Add some AmazingFeature')**
+4. **Push to the Branch (git push origin feature/AmazingFeature)**
+5. **Open a Pull Request**
 
 ## Contact
 
