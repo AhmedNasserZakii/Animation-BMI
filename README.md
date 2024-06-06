@@ -50,7 +50,7 @@ To get started with this project, follow these steps:
 ## Usage
 
 
-1. ** Run the application:**
+1. **Run the application:**
    ```bash
    flutter run
 2. **Calculate BMI:**
