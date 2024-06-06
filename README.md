@@ -1,5 +1,7 @@
 Animation BMI
+
 Introduction
+
 Animation BMI is a Flutter application designed to calculate and display the Body Mass Index (BMI) with engaging animations. This project demonstrates the use of animations and responsive design principles in Flutter.
 Table of Contents
 - [Introduction](#introduction)
@@ -10,6 +12,7 @@ Table of Contents
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+
 Introduction
 The Animation BMI app is created to provide an engaging way to calculate and understand your BMI. The primary focus of this project was to practice and implement:
 - Animations in Flutter.
